@@ -11,4 +11,4 @@ HTML, CSS, JS, React
 
 
 # Instructions to run
-npm run dev
+npm run dev in ochi-final folder
