@@ -39,7 +39,7 @@ const Navbar = () => {
       </div>
 
       <div className="links flex gap-5">
-        {["Services", "Our Work", "About Us", "Insights", "Contact Us"].map(
+        {["Services", "Our Work", "About Us", "Insights", "Hemant Gupta"].map(
           (item, index) => (
             <motion.a
               whileHover={{ scale: 1.1 }}
