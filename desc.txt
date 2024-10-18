@@ -1,0 +1,3 @@
+Developed a responsive web application leveraging React, Tailwind CSS, and Framer Motion to deliver dynamic, interactive presentations for tech businesses, enhancing user engagement through smooth transitions and hover effects.
+Implemented modular content management and smooth scrolling experience using Locomotive Scroll, optimizing navigation and ensuring seamless updates for portfolio sections such as featured projects, services, and more.
+Optimized for performance and scalability with Vite build processes, ensuring fast load times, cross-platform compatibility, and an enhanced user experience across devices.
